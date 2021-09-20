@@ -1,2 +1,4 @@
 # abi-code
-This is a repo that would contain code from lec/lab.
+Name: Abigail Salinas
+Hometown: Lingayen, Pangasinan
+Why Comsci: Because I enjoyed problem solving as a kid.
